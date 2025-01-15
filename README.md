@@ -1,4 +1,5 @@
 # CUSTOMER SEGMENTATION ANALYSIS FOR RETAIL SALES
+![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2F8020-rule-customer-segmentation-how-grow-your-revenue-alex-zbooker&psig=AOvVaw2mmylyfsKi0uIz-zf24Hjw&ust=1737029638483000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODmgerZ94oDFQAAAAAdAAAAABAE)
 
 ## PROJECT OVERVIEW
 In this project, I have explored a sales dataset and performed various analyses and drew insights from customer's past purchase behavior by RFM technique customer segmentation using SQL and built a sales dashboard in Tableau. At the end, provided business solutions by analysing the segments of customers and products to improve the sales.
